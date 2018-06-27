@@ -1,6 +1,4 @@
-Alt-H1 test 
-
-~~ test ~~
+~~test~~
 
 
 <b> test </b>
