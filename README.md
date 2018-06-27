@@ -1,5 +1,6 @@
 ## this is a test
 
+<p>
 #H1
 
 ~~test~~
@@ -9,6 +10,7 @@
 __test__
 
 **test and __test__**
+</p>
 
 <b> test </b>
 
